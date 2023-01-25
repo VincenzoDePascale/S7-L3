@@ -1,0 +1,23 @@
+[
+  {
+    "name": "vincenzo",
+    "surname": "De Pascale",
+    "dateOfBirth": "21/03/1994",
+    "genre": "male",
+    "userLivel": "admin"
+  },
+  {
+    "name": "antonio",
+    "surname": "Carsolari",
+    "dateOfBirth": "17/07/1957",
+    "genre": "male",
+    "userLivel": "user"
+  },
+  {
+    "name": "Camilla",
+    "surname": "Gelsi",
+    "dateOfBirth": "11/11/1984",
+    "genre": "famel",
+    "userLivel": "user"
+  }
+]
